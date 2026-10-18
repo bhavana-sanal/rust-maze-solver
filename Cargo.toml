@@ -1,0 +1,8 @@
+[package]
+name = "maze-solver"
+version = "0.1.0"
+edition = "2021"
+description = "Maze generation (recursive backtracker) and solving (BFS and A*) in the terminal"
+license = "MIT"
+
+[dependencies]
